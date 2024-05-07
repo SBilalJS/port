@@ -28,7 +28,7 @@ const Header = () => {
       {/* Masthead Avatar Image*/}
       <img className="w-50 mb-5 rounded-circle" src="assets/img/portfolio/IMG_1346.JPG" alt="..." />
       {/* Masthead Heading*/}
-      <h1 className="masthead-heading text-uppercase mb-0">Syed Muhammad Bilal</h1>
+      <h1 className="masthead-heading text-uppercase mb-0">Syed M. Bilal</h1>
       {/* Icon Divider*/}
       <div className="divider-custom divider-light">
         <div className="divider-custom-line" />
