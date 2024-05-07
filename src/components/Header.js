@@ -36,7 +36,7 @@ const Header = () => {
         <div className="divider-custom-line" />
       </div>
       {/* Masthead Subheading*/}
-      <p className="masthead-subheading font-weight-bold mb-0">Electrical Engineer - Web Developer</p>
+      <p className="masthead-subheading font-weight-bold text-primary mb-0">Electrical Engineer - Web Developer</p>
     </div>
   </header>
 </div>
